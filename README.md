@@ -117,7 +117,7 @@ Programmer skilled in C, C++, Java, and  HTML & CSS.Familiar with backend tools 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 7 | - |
-| **CodeChef** | 128 | 1006 |
+| **CodeChef** | 328 | 1196 |
 | **CodeForces** | - | - |
 | **GeeksForGeeks** | - | - |
 
